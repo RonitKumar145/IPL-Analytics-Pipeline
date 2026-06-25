@@ -1,0 +1,116 @@
+# =========================
+
+# Python
+
+# =========================
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+
+.venv/
+venv/
+env/
+ENV/
+
+# Distribution / Packaging
+
+build/
+dist/
+*.egg-info/
+
+# =========================
+
+# Jupyter Notebook
+
+# =========================
+
+.ipynb_checkpoints/
+
+# =========================
+
+# VS Code
+
+# =========================
+
+.vscode/
+
+# =========================
+
+# Streamlit
+
+# =========================
+
+.streamlit/secrets.toml
+
+# =========================
+
+# Environment Variables
+
+# =========================
+
+.env
+
+# =========================
+
+# Database
+
+# =========================
+
+*.db
+*.sqlite
+*.sqlite3
+
+# =========================
+
+# Logs
+
+# =========================
+
+*.log
+
+# =========================
+
+# OS Files
+
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+
+# Temporary Files
+
+# =========================
+
+*.tmp
+*.temp
+
+# =========================
+
+# Cache
+
+# =========================
+
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+# =========================
+
+# Reports (Optional)
+
+# =========================
+
+reports/*.html
+
+# =========================
+
+# Images Generated During Analysis (Optional)
+
+# =========================
+
+images/generated/
